@@ -162,4 +162,4 @@ This project is licensed under the MIT License.
 ![0001](https://github.com/IT21168536/chattingServer/assets/99183326/4d9b5101-f4dc-4b30-bf26-ef767048709b)
 ![0002](https://github.com/IT21168536/chattingServer/assets/99183326/1659ee03-e9ac-4574-b3c6-5a33573a032d)
 ![0004](https://github.com/IT21168536/chattingServer/assets/99183326/fc50ea46-7759-4107-93bc-422da7a5a055)
-![0006](https://github.com/IT21168536/chattingServer/assets/99183326/bd9bb9eb-c235-46dd-babf-d8ac160dd943)
+![Screenshot 2024-04-26 232619](https://github.com/IT21168536/chattingServer/assets/99183326/4126750a-0b28-4d26-9b76-928864384e34)
